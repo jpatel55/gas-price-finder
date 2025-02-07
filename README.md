@@ -8,7 +8,6 @@ Gas Price Tracker is a Python-based web scraping tool that helps users find the 
 - Allows users to search by City & State or ZIP code.
 - Extracts the top 10 gas stations with the lowest prices.
 - Generates a professional PDF report including station details and Google Maps links.
-- Runs in headless mode for seamless automation.
 
 ## 🛠️ Technologies Used
 - Python 3
