@@ -1,7 +1,7 @@
-# Gas Price Finder
+# Gas Price Tracker
 
 ## 📌 Project Overview
-Gas Price Finder is a Python-based web scraping tool that helps users find the latest gas prices at nearby stations using Selenium and FPDF. It retrieves gas prices based on user input (City, State, or ZIP code) and generates a PDF report of the top 10 results, including station names, addresses, prices, and Google Maps links.
+Gas Price Tracker is a Python-based web scraping tool that helps users find the latest gas prices at nearby stations using Selenium and FPDF. It retrieves gas prices based on user input (City, State, or ZIP code) and generates a PDF report of the top 10 results, including station names, addresses, prices, and Google Maps links.
 
 ## 🚀 Features
 - Scrapes real-time gas prices from [AAA Public Affairs Gas Information](https://cluballiance.aaa.com/public-affairs/gas-information).
@@ -22,7 +22,7 @@ Gas Price Finder is a Python-based web scraping tool that helps users find the l
    ```pip install -r requirements.txt```
 - ### Step 2: Run the Script
    To execute the program, simply run:  
-   ```python gas_price_finder.py```
+   ```python tracker.py```
 
 ## 🔧 Usage Guide
 1. Run the script and choose an option:
