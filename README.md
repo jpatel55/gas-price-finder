@@ -17,12 +17,12 @@ Gas Price Finder is a Python-based web scraping tool that helps users find the l
 - WebDriver Manager
 
 ## 📂 Installation & Setup
-### Step 1: Install Dependencies
-Run the following command to install required Python packages:  
-```pip install -r requirements.txt```
-### Step 2: Run the Script
-To execute the program, simply run:  
-```python gas_price_finder.py```
+- ### Step 1: Install Dependencies
+   Run the following command to install required Python packages:  
+   ```pip install -r requirements.txt```
+- ### Step 2: Run the Script
+   To execute the program, simply run:  
+   ```python gas_price_finder.py```
 
 ## 🔧 Usage Guide
 1. Run the script and choose an option:
